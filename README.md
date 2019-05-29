@@ -3,10 +3,10 @@
 
 ## Overview  
 The Floating Button is a damo project to make a global floating button cross all views.   
-![](https://ibb.co/C9QWxnM)  
-![](https://ibb.co/X2RjCJC)  
-![](https://ibb.co/DVFnhrn)    
-![](https://ibb.co/Wcbpd4q)  
+![](https://i.ibb.co/GxDjyHj/Screen-Shot-2019-05-29-at-9-11-47-pm.png)  
+![](https://i.ibb.co/FYznGB0/Screen-Shot-2019-05-29-at-9-11-28-pm.png)  
+![](https://i.ibb.co/4gX8fry/Screen-Shot-2019-05-29-at-9-11-32-pm.png)  
+  
 ## Orientation
 It doesn't use any package managerment tool, like cocoapods, in this repo. You don't need to install pods before build the project. Just double click FloatingButton.xcodeproj in the folder to open the project automatically. :)  
 
